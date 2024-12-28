@@ -25,4 +25,7 @@ Features
 
 **Drill-Throughs**: Click on any state to view its detailed performance metrics.
 
+![image](https://github.com/user-attachments/assets/8a0e0d07-4471-4e15-9332-ea713b5bdb33)
+
+
 
